@@ -1,0 +1,7 @@
+# Created by git when using merge tools for conflicts
+environments/dev/.aws/aws_key/
+environments/dev/.terraform/
+environments/prod/.aws/aws_key/
+environments/prod/.terraform/
+environments/staging/.aws/aws_key/
+environments/staging/.terraform/
